@@ -1,142 +1,142 @@
-[/265.com/]quic://223.5.5.5 quic://223.6.6.6
-[/2mdn-cn.net/]quic://223.5.5.5 quic://223.6.6.6
-[/2mdn.net/]quic://223.5.5.5 quic://223.6.6.6
-[/admob-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/adservice.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/app-analytics-services.com/]quic://223.5.5.5 quic://223.6.6.6
-[/app-measurement-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/app-measurement.com/]quic://223.5.5.5 quic://223.6.6.6
-[/apps5.oingo.com/]quic://223.5.5.5 quic://223.6.6.6
-[/avail.googleflights.net/]quic://223.5.5.5 quic://223.6.6.6
-[/beacons.gcp.gvt2.com/]quic://223.5.5.5 quic://223.6.6.6
-[/beacons.gvt2.com/]quic://223.5.5.5 quic://223.6.6.6
-[/beacons2.gvt2.com/]quic://223.5.5.5 quic://223.6.6.6
-[/beacons3.gvt2.com/]quic://223.5.5.5 quic://223.6.6.6
-[/c.admob.com/]quic://223.5.5.5 quic://223.6.6.6
-[/c.android.clients.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/cache-management-prod.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/cache.pack.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/checkin.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/clickserve.cc-dt.com/]quic://223.5.5.5 quic://223.6.6.6
-[/clickserve.dartsearch.net/]quic://223.5.5.5 quic://223.6.6.6
-[/clickserver.googleads.com/]quic://223.5.5.5 quic://223.6.6.6
-[/clientservices.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/cn.widevine.com/]quic://223.5.5.5 quic://223.6.6.6
-[/cnappinstall.googleadapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/connectivitycheck.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/content.googleadapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/crashlyticsreports-pa.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/crl.pki.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/csi.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/dartsearch-cn.net/]quic://223.5.5.5 quic://223.6.6.6
-[/dg-meta.video.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/dl.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/dl.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/doubleclick-cn.net/]quic://223.5.5.5 quic://223.6.6.6
-[/doubleclick.net/]quic://223.5.5.5 quic://223.6.6.6
-[/download.mlcc.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/download.qatp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/download.tensorflow.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/emmapplecodevice.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/firebase-settings.crashlytics.com/]quic://223.5.5.5 quic://223.6.6.6
-[/fontfiles.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/fonts.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/fonts.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/g0.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/g1.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/g2.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/g3.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/go.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/gonglchuangl.net/]quic://223.5.5.5 quic://223.6.6.6
-[/gongyichuangyi.net/]quic://223.5.5.5 quic://223.6.6.6
-[/google-analytics-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/google-analytics.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleadservices-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleadservices.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleanalytics.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleapis-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleapps-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleflights-cn.net/]quic://223.5.5.5 quic://223.6.6.6
-[/googleoptimize-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googleoptimize.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googlesyndication-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googlesyndication.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googletagmanager-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googletagmanager.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googletagservices-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googletagservices.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googletraveladservices-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googletraveladservices.com/]quic://223.5.5.5 quic://223.6.6.6
-[/googlevads-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/gstatic-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/gstaticadssl.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/gtm.oasisfeng.com/]quic://223.5.5.5 quic://223.6.6.6
-[/gvt1-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/gvt2-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/imasdk.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/l2-uberproxy.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/logger-dev.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/logger.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/login.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/monitoring.qpdp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/ocsp.pki.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/pagead-googlehosted.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/performanceparameters.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/pki-goog.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/prod-controlbe.floonet.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/prod-databe.floonet.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/prod.databe.floonet.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/proxyconfig.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/qagpublic.qatp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/qgadmin.qcpp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/qiao-cn.com/]quic://223.5.5.5 quic://223.6.6.6
-[/qpx.googleflights.net/]quic://223.5.5.5 quic://223.6.6.6
-[/qualysapi.qatp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/qualysguard.qpdp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/r.cert.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/rapture-prod.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/recaptcha-cn.net/]quic://223.5.5.5 quic://223.6.6.6
-[/recaptcha.net/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.bdn.dev/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.c.chat.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.c.mail.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.c.pack.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.c.play.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.c.youtubeeducation.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.gcpcdn.gvt1.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.gvt1.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.offline-maps.gvt1.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.snap.gvt1.com/]quic://223.5.5.5 quic://223.6.6.6
-[/redirector.xn--ngstr-lra8j.com/]quic://223.5.5.5 quic://223.6.6.6
-[/safebrowsing-cache.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/safebrowsing.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/scanservice1.qcpp1.net/]quic://223.5.5.5 quic://223.6.6.6
-[/service.urchin.com/]quic://223.5.5.5 quic://223.6.6.6
-[/ssl-google-analytics.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/ssl.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/sslredirect.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/staging-controlbe.floonet.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/staging-databe.floonet.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/staging.databe.floonet.goog/]quic://223.5.5.5 quic://223.6.6.6
-[/streaming-uberproxy-rotation.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/streaming-uberproxy.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/sup-ssh-relay.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/sup-ssh-relay2.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/sup.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/sup.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/tac.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/test.gbugs-qa.chromium.org/]quic://223.5.5.5 quic://223.6.6.6
-[/tools.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/tools.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/uberproxy-debug4.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/uberproxy.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/uberproxy6.corp.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/update.crashlytics.com/]quic://223.5.5.5 quic://223.6.6.6
-[/update.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/wear.googleapis.com/]quic://223.5.5.5 quic://223.6.6.6
-[/www-google-analytics.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/www-googletagmanager.l.google.com/]quic://223.5.5.5 quic://223.6.6.6
-[/www.destinationurl.com/]quic://223.5.5.5 quic://223.6.6.6
-[/www.gstatic.com/]quic://223.5.5.5 quic://223.6.6.6
-[/www.pxcc.com/]quic://223.5.5.5 quic://223.6.6.6
-[/xn--flw351e.com/]quic://223.5.5.5 quic://223.6.6.6
+[/265.com/]quic://dns.alidns.com
+[/2mdn-cn.net/]quic://dns.alidns.com
+[/2mdn.net/]quic://dns.alidns.com
+[/admob-cn.com/]quic://dns.alidns.com
+[/adservice.google.com/]quic://dns.alidns.com
+[/app-analytics-services.com/]quic://dns.alidns.com
+[/app-measurement-cn.com/]quic://dns.alidns.com
+[/app-measurement.com/]quic://dns.alidns.com
+[/apps5.oingo.com/]quic://dns.alidns.com
+[/avail.googleflights.net/]quic://dns.alidns.com
+[/beacons.gcp.gvt2.com/]quic://dns.alidns.com
+[/beacons.gvt2.com/]quic://dns.alidns.com
+[/beacons2.gvt2.com/]quic://dns.alidns.com
+[/beacons3.gvt2.com/]quic://dns.alidns.com
+[/c.admob.com/]quic://dns.alidns.com
+[/c.android.clients.google.com/]quic://dns.alidns.com
+[/cache-management-prod.google.com/]quic://dns.alidns.com
+[/cache.pack.google.com/]quic://dns.alidns.com
+[/checkin.gstatic.com/]quic://dns.alidns.com
+[/clickserve.cc-dt.com/]quic://dns.alidns.com
+[/clickserve.dartsearch.net/]quic://dns.alidns.com
+[/clickserver.googleads.com/]quic://dns.alidns.com
+[/clientservices.googleapis.com/]quic://dns.alidns.com
+[/cn.widevine.com/]quic://dns.alidns.com
+[/cnappinstall.googleadapis.com/]quic://dns.alidns.com
+[/connectivitycheck.gstatic.com/]quic://dns.alidns.com
+[/content.googleadapis.com/]quic://dns.alidns.com
+[/crashlyticsreports-pa.googleapis.com/]quic://dns.alidns.com
+[/crl.pki.goog/]quic://dns.alidns.com
+[/csi.gstatic.com/]quic://dns.alidns.com
+[/dartsearch-cn.net/]quic://dns.alidns.com
+[/dg-meta.video.google.com/]quic://dns.alidns.com
+[/dl.google.com/]quic://dns.alidns.com
+[/dl.l.google.com/]quic://dns.alidns.com
+[/doubleclick-cn.net/]quic://dns.alidns.com
+[/doubleclick.net/]quic://dns.alidns.com
+[/download.mlcc.google.com/]quic://dns.alidns.com
+[/download.qatp1.net/]quic://dns.alidns.com
+[/download.tensorflow.google.com/]quic://dns.alidns.com
+[/emmapplecodevice.googleapis.com/]quic://dns.alidns.com
+[/firebase-settings.crashlytics.com/]quic://dns.alidns.com
+[/fontfiles.googleapis.com/]quic://dns.alidns.com
+[/fonts.googleapis.com/]quic://dns.alidns.com
+[/fonts.gstatic.com/]quic://dns.alidns.com
+[/g0.gstatic.com/]quic://dns.alidns.com
+[/g1.gstatic.com/]quic://dns.alidns.com
+[/g2.gstatic.com/]quic://dns.alidns.com
+[/g3.gstatic.com/]quic://dns.alidns.com
+[/go.corp.google.com/]quic://dns.alidns.com
+[/gonglchuangl.net/]quic://dns.alidns.com
+[/gongyichuangyi.net/]quic://dns.alidns.com
+[/google-analytics-cn.com/]quic://dns.alidns.com
+[/google-analytics.com/]quic://dns.alidns.com
+[/googleadservices-cn.com/]quic://dns.alidns.com
+[/googleadservices.com/]quic://dns.alidns.com
+[/googleanalytics.com/]quic://dns.alidns.com
+[/googleapis-cn.com/]quic://dns.alidns.com
+[/googleapps-cn.com/]quic://dns.alidns.com
+[/googleflights-cn.net/]quic://dns.alidns.com
+[/googleoptimize-cn.com/]quic://dns.alidns.com
+[/googleoptimize.com/]quic://dns.alidns.com
+[/googlesyndication-cn.com/]quic://dns.alidns.com
+[/googlesyndication.com/]quic://dns.alidns.com
+[/googletagmanager-cn.com/]quic://dns.alidns.com
+[/googletagmanager.com/]quic://dns.alidns.com
+[/googletagservices-cn.com/]quic://dns.alidns.com
+[/googletagservices.com/]quic://dns.alidns.com
+[/googletraveladservices-cn.com/]quic://dns.alidns.com
+[/googletraveladservices.com/]quic://dns.alidns.com
+[/googlevads-cn.com/]quic://dns.alidns.com
+[/gstatic-cn.com/]quic://dns.alidns.com
+[/gstaticadssl.l.google.com/]quic://dns.alidns.com
+[/gtm.oasisfeng.com/]quic://dns.alidns.com
+[/gvt1-cn.com/]quic://dns.alidns.com
+[/gvt2-cn.com/]quic://dns.alidns.com
+[/imasdk.googleapis.com/]quic://dns.alidns.com
+[/l2-uberproxy.corp.google.com/]quic://dns.alidns.com
+[/logger-dev.corp.google.com/]quic://dns.alidns.com
+[/logger.corp.google.com/]quic://dns.alidns.com
+[/login.corp.google.com/]quic://dns.alidns.com
+[/monitoring.qpdp1.net/]quic://dns.alidns.com
+[/ocsp.pki.goog/]quic://dns.alidns.com
+[/pagead-googlehosted.l.google.com/]quic://dns.alidns.com
+[/performanceparameters.googleapis.com/]quic://dns.alidns.com
+[/pki-goog.l.google.com/]quic://dns.alidns.com
+[/prod-controlbe.floonet.goog/]quic://dns.alidns.com
+[/prod-databe.floonet.goog/]quic://dns.alidns.com
+[/prod.databe.floonet.goog/]quic://dns.alidns.com
+[/proxyconfig.corp.google.com/]quic://dns.alidns.com
+[/qagpublic.qatp1.net/]quic://dns.alidns.com
+[/qgadmin.qcpp1.net/]quic://dns.alidns.com
+[/qiao-cn.com/]quic://dns.alidns.com
+[/qpx.googleflights.net/]quic://dns.alidns.com
+[/qualysapi.qatp1.net/]quic://dns.alidns.com
+[/qualysguard.qpdp1.net/]quic://dns.alidns.com
+[/r.cert.corp.google.com/]quic://dns.alidns.com
+[/rapture-prod.corp.google.com/]quic://dns.alidns.com
+[/recaptcha-cn.net/]quic://dns.alidns.com
+[/recaptcha.net/]quic://dns.alidns.com
+[/redirector.bdn.dev/]quic://dns.alidns.com
+[/redirector.c.chat.google.com/]quic://dns.alidns.com
+[/redirector.c.mail.google.com/]quic://dns.alidns.com
+[/redirector.c.pack.google.com/]quic://dns.alidns.com
+[/redirector.c.play.google.com/]quic://dns.alidns.com
+[/redirector.c.youtubeeducation.com/]quic://dns.alidns.com
+[/redirector.gcpcdn.gvt1.com/]quic://dns.alidns.com
+[/redirector.gvt1.com/]quic://dns.alidns.com
+[/redirector.offline-maps.gvt1.com/]quic://dns.alidns.com
+[/redirector.snap.gvt1.com/]quic://dns.alidns.com
+[/redirector.xn--ngstr-lra8j.com/]quic://dns.alidns.com
+[/safebrowsing-cache.google.com/]quic://dns.alidns.com
+[/safebrowsing.googleapis.com/]quic://dns.alidns.com
+[/scanservice1.qcpp1.net/]quic://dns.alidns.com
+[/service.urchin.com/]quic://dns.alidns.com
+[/ssl-google-analytics.l.google.com/]quic://dns.alidns.com
+[/ssl.gstatic.com/]quic://dns.alidns.com
+[/sslredirect.corp.google.com/]quic://dns.alidns.com
+[/staging-controlbe.floonet.goog/]quic://dns.alidns.com
+[/staging-databe.floonet.goog/]quic://dns.alidns.com
+[/staging.databe.floonet.goog/]quic://dns.alidns.com
+[/streaming-uberproxy-rotation.corp.google.com/]quic://dns.alidns.com
+[/streaming-uberproxy.corp.google.com/]quic://dns.alidns.com
+[/sup-ssh-relay.corp.google.com/]quic://dns.alidns.com
+[/sup-ssh-relay2.corp.google.com/]quic://dns.alidns.com
+[/sup.corp.google.com/]quic://dns.alidns.com
+[/sup.l.google.com/]quic://dns.alidns.com
+[/tac.googleapis.com/]quic://dns.alidns.com
+[/test.gbugs-qa.chromium.org/]quic://dns.alidns.com
+[/tools.google.com/]quic://dns.alidns.com
+[/tools.l.google.com/]quic://dns.alidns.com
+[/uberproxy-debug4.corp.google.com/]quic://dns.alidns.com
+[/uberproxy.corp.google.com/]quic://dns.alidns.com
+[/uberproxy6.corp.google.com/]quic://dns.alidns.com
+[/update.crashlytics.com/]quic://dns.alidns.com
+[/update.googleapis.com/]quic://dns.alidns.com
+[/wear.googleapis.com/]quic://dns.alidns.com
+[/www-google-analytics.l.google.com/]quic://dns.alidns.com
+[/www-googletagmanager.l.google.com/]quic://dns.alidns.com
+[/www.destinationurl.com/]quic://dns.alidns.com
+[/www.gstatic.com/]quic://dns.alidns.com
+[/www.pxcc.com/]quic://dns.alidns.com
+[/xn--flw351e.com/]quic://dns.alidns.com
